@@ -1,0 +1,14 @@
+/*
+ * Subpage1 css File
+*/
+
+.Subpage1 {
+    /* propertys here */
+}
+.input-error{
+    color: red;
+}
+form input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
